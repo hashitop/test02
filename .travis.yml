@@ -8,5 +8,4 @@ deploy:
   file: dummy_gen_asset.txt
   on:
     repo: hashitop/test02
-  on:
     tags: true
