@@ -7,5 +7,6 @@ deploy:
     secure: YzY5MzFiMGZmM2YyYjY1ZDA0ZDE4ODM5NWI3ZmNlYjYzYzIzOGUzYgo=
   file: dummy_gen_asset.txt
   on:
+    branch: master
     repo: hashitop/test02
   skip_cleanup: true
