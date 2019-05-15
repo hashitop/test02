@@ -7,5 +7,5 @@ deploy:
     secure: c6931b0ff3f2b65d04d188395b7fceb63c238e3b
   file: dummy_gen_asset.txt
   on:
-    repo: hashitop/test02_releases
+    repo: hashitop/test02
   skip_cleanup: true
