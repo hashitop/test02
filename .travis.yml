@@ -4,7 +4,7 @@ sudo: required
 deploy:
   provider: releases
   api_key:
-    secure: c6931b0ff3f2b65d04d188395b7fceb63c238e3b
+    secure: YzY5MzFiMGZmM2YyYjY1ZDA0ZDE4ODM5NWI3ZmNlYjYzYzIzOGUzYgo=
   file: dummy_gen_asset.txt
   on:
     repo: hashitop/test02
