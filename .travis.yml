@@ -7,6 +7,7 @@ deploy:
     secure: dd6d57b91900f806b449693d6af85215dc8776d6
   file: dummy_gen_asset.txt
   on:
-    tags: true
     repo: hashitop/test02
   skip_cleanup: true
+  on:
+    tags: true
