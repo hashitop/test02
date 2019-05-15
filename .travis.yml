@@ -4,7 +4,7 @@ sudo: required
 deploy:
   provider: releases
   api_key:
-    secure: YzY5MzFiMGZmM2YyYjY1ZDA0ZDE4ODM5NWI3ZmNlYjYzYzIzOGUzYgo=
+    secure: dd6d57b91900f806b449693d6af85215dc8776d6
   file: dummy_gen_asset.txt
   on:
     tags: true
